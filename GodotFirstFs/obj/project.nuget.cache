@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "mUMOZagSiBLW49QgX4+CEk2qygtrjThgYWcTx4dRSYsBWXf5rLVvW0PxQBieN4j/pSkkc88P1eAx+Otc0glebQ==",
+  "success": true,
+  "projectFilePath": "D:\\mine\\works\\repo\\godot-first\\GodotFirstFs\\GodotFirstFs.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\penry\\.nuget\\packages\\fsharp.core\\7.0.200\\fsharp.core.7.0.200.nupkg.sha512",
+    "C:\\Users\\penry\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\penry\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\penry\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.15\\microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
