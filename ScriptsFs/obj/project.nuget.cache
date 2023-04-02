@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JpBUYVRxlgG3pfapS+C18NHiL0OhPaJwuTe4fNf5iRhIPKjPynfFXmhxzB2v2UWyLzIWQqKgXuRS7eM5S7KKXg==",
+  "success": true,
+  "projectFilePath": "D:\\mine\\works\\repo\\godot-first\\ScriptsFs\\ScriptsFs.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\penry\\.nuget\\packages\\fsharp.core\\7.0.200\\fsharp.core.7.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}
