@@ -2,6 +2,8 @@
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Godot-first", "Godot-first.csproj", "{235C2FA0-C5AD-4214-9BB9-6D6710BE4C65}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "GodotFirstFs", "GodotFirstFs\GodotFirstFs.fsproj", "{86F71E39-0087-42D1-8AC6-F528D625ECAB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 	Debug|Any CPU = Debug|Any CPU
@@ -15,5 +17,11 @@ Global
 		{235C2FA0-C5AD-4214-9BB9-6D6710BE4C65}.ExportDebug|Any CPU.Build.0 = ExportDebug|Any CPU
 		{235C2FA0-C5AD-4214-9BB9-6D6710BE4C65}.ExportRelease|Any CPU.ActiveCfg = ExportRelease|Any CPU
 		{235C2FA0-C5AD-4214-9BB9-6D6710BE4C65}.ExportRelease|Any CPU.Build.0 = ExportRelease|Any CPU
+		{86F71E39-0087-42D1-8AC6-F528D625ECAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86F71E39-0087-42D1-8AC6-F528D625ECAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86F71E39-0087-42D1-8AC6-F528D625ECAB}.ExportDebug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86F71E39-0087-42D1-8AC6-F528D625ECAB}.ExportDebug|Any CPU.Build.0 = Debug|Any CPU
+		{86F71E39-0087-42D1-8AC6-F528D625ECAB}.ExportRelease|Any CPU.ActiveCfg = Debug|Any CPU
+		{86F71E39-0087-42D1-8AC6-F528D625ECAB}.ExportRelease|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 EndGlobal
