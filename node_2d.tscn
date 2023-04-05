@@ -1,6 +1,10 @@
-[gd_scene load_steps=2 format=3 uid="uid://dlbasd1en2qhc"]
+[gd_scene load_steps=3 format=3 uid="uid://dlbasd1en2qhc"]
 
-[ext_resource type="Script" path="res://HelloWorld.cs" id="1_44kwm"]
+[ext_resource type="Texture2D" uid="uid://g6ujanfsxfl5" path="res://nano_icon.png" id="1_87slp"]
+[ext_resource type="Script" path="res://Circle.cs" id="2_5pe6o"]
 
-[node name="Node2D" type="Node2D"]
-script = ExtResource("1_44kwm")
+[node name="Sprite2D" type="Sprite2D"]
+position = Vector2(441, 328)
+scale = Vector2(0.33, 0.33)
+texture = ExtResource("1_87slp")
+script = ExtResource("2_5pe6o")
